@@ -1,0 +1,17 @@
+{
+    "name": "kurs/php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Michal Kaczmarek",
+            "email": "m@test.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":
+        {
+            "Eduweb\\": "src/"
+        }
+    }
+}
